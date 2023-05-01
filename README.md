@@ -1,6 +1,6 @@
-### Olá 👋, fique a vontade, aqui você encontrará alguns de meus trabalhos e idéias  🛸
+## Olá 👋, fique a vontade, aqui você encontrará alguns de meus trabalhos e idéias  🛸
+#### Tem coisa nova chegando...
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-c-b6ab2484/)
 
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=ncnilton&show_icons=true&theme=tokyonight)
@@ -9,6 +9,9 @@ Tecnologias utilizadas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  
   
  </div><br/>
 
