@@ -1,5 +1,5 @@
 ## Olá 👋, fique a vontade, aqui você encontrará alguns de meus trabalhos e idéias  🛸
-#### Tem coisa nova chegando...
+#### Tem novidades chegando...
 
 
 
