@@ -13,9 +13,9 @@ Tecnologias utilizadas
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="html5" src = "Logo.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />
+  <img align="center" alt="html5" src = "img/Logo.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />
   <img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="html5" src = "datawrapper.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />
+  <img align="center" alt="html5" src = "img/datawrapper.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />
   <img align="center" alt="html5" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   
   
