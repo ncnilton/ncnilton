@@ -1,8 +1,10 @@
-### Olá 👋, fique a vontade, aqui você encontrará alguns de meus trabalhos e idéias  🛸
+### Olá 👋, Sinta-se à vontade para explorar meus projetos e ideias aqui apresentados  🛸
+
+
 #### Tem novidades chegando...
 
 
-### Tecnologias utilizadas para Data Science e Dashboards
+### Tecnologias utilizadas para Data Science, Analise de Dados e criação de Dashboards
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
