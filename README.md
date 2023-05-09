@@ -17,9 +17,9 @@
  </div><br/>
 
 
-- 🔭 Atualmente estou a procura de uma empresa que eu possa contribuir e fazer parte de um time de ponta !!
+- 🔭 Estou em busca de uma empresa de ponta para contribuir e integrar sua equipe.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-c-b6ab2484/)
 
-- 🌱 Enquanto isso, estou aproveitando este tempo para me aperfeiçoar, fazendo meu MBA e aprimorando meus conhecimentos em Business Intelligence, Machine Learning e Ciência de Dados.
+- 🌱 Enquanto isso, aproveito para aprimorar minhas habilidades com um MBA e foco em Business Intelligence, Machine Learning e Ciência de Dados.
 
