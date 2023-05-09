@@ -12,8 +12,8 @@
   <img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="html5" src = "img/datawrapper.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />
   <img align="center" alt="html5" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
-  
+  <img align="center" alt="html5" src = "img/PowerBI.PNG?style=for-the-badge&logo=r&logoColor=white" height=28 />  
+    
  </div><br/>
 
 
