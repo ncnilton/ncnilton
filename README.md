@@ -1,4 +1,4 @@
-### Olá 👋, Sinta-se à vontade para explorar meus projetos e ideias aqui apresentados  🛸
+### Olá 👋, Sinta-se à vontade para explorar meus projetos e ideias aqui apresentadas  🛸
 
 
 #### Tem novidades chegando...
