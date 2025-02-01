@@ -25,5 +25,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-c-b6ab2484/)
 
-- 🌱 Enquanto isso, aproveito para aprimorar minhas habilidades com um MBA e foco em Business Intelligence, Machine Learning e Ciência de Dados.
+- 🌱 Enquanto isso, aproveito para aprimorar minhas habilidades de criação de prompts da OpenAI e automações com n8n e Python.
 
