@@ -4,9 +4,11 @@
 #### Tem novidades chegando...
 
 
-### Tecnologias utilizadas para Data Science, Analise de Dados e criação de Dashboards
+### Criação de Assistentes pela OpenAI para analise de documentação de sistemas e geração de documentos para a equipe de QA
 
 <div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/n8n-white?style=for-the-badge&logo=n8n&logoColor=red" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
